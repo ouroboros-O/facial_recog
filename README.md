@@ -53,11 +53,11 @@ If you wish to see the and or execute the scripts I used to compile the AI model
 
 ## Sources
 
-[Kivy Tutorial by "Tech With Tim"] - Content was used for explanation in this README
+[Kivy Tutorial by "Tech With Tim"] - "Used to Understand Kivy"
 
-[Build a Python Facial Recognition App by Nicholas Renotte]: https://www.youtube.com/watch?v=LKispFFQ5GU "Main source for understanding and execution"
+[Build a Python Facial Recognition App by Nicholas Renotte] - "Main source for understanding and execution"
 
-[Siamese Neural Networks for One-shot Image Recognition]: https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf "For the foundation of the techniques used"
+[Siamese Neural Networks for One-shot Image Recognition] - https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf - "For the foundation of the techniques used"
 
 ## Conclusion
 
