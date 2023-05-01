@@ -1,4 +1,4 @@
-# Facial Recog using Siamese Neural Networks
+# Facial Recognition using Siamese Neural Networks
 
 
 Decided to teach the sand how to think.
