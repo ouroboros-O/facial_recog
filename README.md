@@ -41,6 +41,9 @@ Use git to clone this repository into your computer.
 Download the trained model from this google drive link and place it into the following directories:
 face\facial_recog\legacy
 facial_recog\finalapp
+https://drive.google.com/file/d/13ttCFEEoHbVT_MkWm0eeZnPf7qHFLd7k/view?usp=sharing
+
+
 
 Run the py script in the finalapp folder.
 
