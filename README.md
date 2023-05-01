@@ -22,8 +22,8 @@ The application allows any user to first press a button to authenticate themselv
 
 ## Contents
 
-*   [Siamese Neural Networks]
-*   [Download and Running](#Set-Up)
+*   [Siamese Neural Networks](#Siamese-Neural-Networks)
+*   [Download and Running](#Download-and-Running)
 *   [Sources](#sources)
 *   [Conclusion](#conclusion)
 
